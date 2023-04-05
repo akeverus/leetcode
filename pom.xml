@@ -16,6 +16,15 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>Two_Sum</module>
+        <module>1_Two_Sum</module>
+        <module>2_Add_Two_Numbers</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <artifactId>annotations</artifactId>
+            <groupId>org.jetbrains</groupId>
+            <version>17.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 </project>
