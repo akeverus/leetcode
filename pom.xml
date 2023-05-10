@@ -23,6 +23,7 @@
         <module>Longest_Common_Prefix</module>
         <module>Plus_One</module>
         <module>Valid_Parentheses</module>
+        <module>Merge_Two_Sorted_lists</module>
     </modules>
     <dependencies>
         <dependency>
