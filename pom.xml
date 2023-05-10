@@ -16,8 +16,12 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>1_Two_Sum</module>
-        <module>2_Add_Two_Numbers</module>
+        <module>Two_Sum</module>
+        <module>Add_Two_Numbers</module>
+        <module>Palindrome_Number</module>
+        <module>Roman_To_Integer</module>
+        <module>Longest_Common_Prefix</module>
+        <module>Plus_One</module>
     </modules>
     <dependencies>
         <dependency>
