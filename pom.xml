@@ -22,6 +22,7 @@
         <module>Roman_To_Integer</module>
         <module>Longest_Common_Prefix</module>
         <module>Plus_One</module>
+        <module>Valid_Parentheses</module>
     </modules>
     <dependencies>
         <dependency>
