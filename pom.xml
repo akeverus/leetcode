@@ -27,6 +27,7 @@
         <module>Remove_Duplicates_from_Sorted_Array</module>
         <module>Find_The_Index_Of_The_First_Occurrence_In_A_String</module>
         <module>Search_Insert_Position</module>
+        <module>Length_Of_The_Last_Word</module>
     </modules>
     <dependencies>
         <dependency>
