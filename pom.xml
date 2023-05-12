@@ -35,6 +35,7 @@
         <module>N88_Merge_Sorted_Array</module>
         <module>N94_Binary_Tree_Inorder_Traversal</module>
         <module>N100_Same_Tree</module>
+        <module>N101_Symmetric_Tree</module>
     </modules>
     <dependencies>
         <dependency>
