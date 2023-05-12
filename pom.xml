@@ -32,6 +32,8 @@
         <module>N69_Sqrt_X</module>
         <module>N70_Climbing_Stairs</module>
         <module>N83_Remove_Dublicates_From_Sorted_List</module>
+        <module>N88_Merge_Sorted_Array</module>
+        <module>N94_Binary_Tree_Inorder_Traversal</module>
     </modules>
     <dependencies>
         <dependency>
