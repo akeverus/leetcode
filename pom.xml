@@ -16,19 +16,20 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>Two_Sum</module>
-        <module>Add_Two_Numbers</module>
-        <module>Palindrome_Number</module>
-        <module>Roman_To_Integer</module>
-        <module>Longest_Common_Prefix</module>
-        <module>Plus_One</module>
-        <module>Valid_Parentheses</module>
-        <module>Merge_Two_Sorted_lists</module>
-        <module>Remove_Duplicates_from_Sorted_Array</module>
-        <module>Find_The_Index_Of_The_First_Occurrence_In_A_String</module>
-        <module>Search_Insert_Position</module>
-        <module>Length_Of_The_Last_Word</module>
+        <module>N1_Two_Sum</module>
+        <module>N2_Add_Two_Numbers</module>
+        <module>N9_Palindrome_Number</module>
+        <module>N13_Roman_To_Integer</module>
+        <module>N14_Longest_Common_Prefix</module>
+        <module>N20_Valid_Parentheses</module>
+        <module>N21_Merge_Two_Sorted_Lists</module>
+        <module>N26_Remove_Duplicates_From_Sorted_Array</module>
+        <module>N28_Find_The_Index_Of_The_First_Occurrence_In_A_String</module>
+        <module>N35_Search_Insert_Position</module>
+        <module>N58_Length_Of_The_Last_Word</module>
+        <module>N66_Plus_One</module>
         <module>N67_Add_Binary</module>
+        <module>N69_Sqrt_X</module>
     </modules>
     <dependencies>
         <dependency>
