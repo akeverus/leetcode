@@ -30,6 +30,7 @@
         <module>N66_Plus_One</module>
         <module>N67_Add_Binary</module>
         <module>N69_Sqrt_X</module>
+        <module>N70_Climbing_Stairs</module>
     </modules>
     <dependencies>
         <dependency>
