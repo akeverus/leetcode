@@ -31,6 +31,7 @@
         <module>N67_Add_Binary</module>
         <module>N69_Sqrt_X</module>
         <module>N70_Climbing_Stairs</module>
+        <module>N83_Remove_Dublicates_From_Sorted_List</module>
     </modules>
     <dependencies>
         <dependency>
