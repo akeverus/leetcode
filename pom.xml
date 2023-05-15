@@ -39,6 +39,7 @@
         <module>N104_Maximum_Depth_Of_Binary_Tree</module>
         <module>N108_Convert_Sorted_Array_To_Binary_Search_Tree</module>
         <module>N110_Balanced_Binary_Tree</module>
+        <module>N111_Minimum_Depth_Of_Binary_Tree</module>
     </modules>
     <dependencies>
         <dependency>
