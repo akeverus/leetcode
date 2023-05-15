@@ -36,6 +36,7 @@
         <module>N94_Binary_Tree_Inorder_Traversal</module>
         <module>N100_Same_Tree</module>
         <module>N101_Symmetric_Tree</module>
+        <module>N104_Maximum_Depth_Of_Binary_Tree</module>
     </modules>
     <dependencies>
         <dependency>
