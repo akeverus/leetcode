@@ -1,8 +1,5 @@
 package ru.voronin;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
     public int maxDepth(TreeNode root) {
         if (root == null) return 0;
