@@ -40,6 +40,8 @@
         <module>N108_Convert_Sorted_Array_To_Binary_Search_Tree</module>
         <module>N110_Balanced_Binary_Tree</module>
         <module>N111_Minimum_Depth_Of_Binary_Tree</module>
+        <module>N112_Path_Sum</module>
+        <module>N118_Pascals_Triangle</module>
     </modules>
     <dependencies>
         <dependency>
