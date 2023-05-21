@@ -42,6 +42,10 @@
         <module>N111_Minimum_Depth_Of_Binary_Tree</module>
         <module>N112_Path_Sum</module>
         <module>N118_Pascals_Triangle</module>
+        <module>N119_Pascals_Triangle_II</module>
+        <module>N121_Best_Time_To_Buy_And_Sell_Stock</module>
+        <module>N125_Valid_Palindrome</module>
+        <module>N136_Single_Number</module>
     </modules>
     <dependencies>
         <dependency>
