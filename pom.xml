@@ -46,6 +46,8 @@
         <module>N121_Best_Time_To_Buy_And_Sell_Stock</module>
         <module>N125_Valid_Palindrome</module>
         <module>N136_Single_Number</module>
+        <module>N144_Binary_Tree_Preorder_Traversal</module>
+        <module>N145_Binary_Tree_Postorder_Traversal</module>
     </modules>
     <dependencies>
         <dependency>
