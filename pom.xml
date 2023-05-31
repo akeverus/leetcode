@@ -50,6 +50,7 @@
         <module>N145_Binary_Tree_Postorder_Traversal</module>
         <module>N160_Intersection_Of_Two_Linked_List</module>
         <module>N168_Excel_Sheet_Column_Title</module>
+        <module>N169_Majority_Element</module>
     </modules>
     <dependencies>
         <dependency>
