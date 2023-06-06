@@ -52,6 +52,7 @@
         <module>N168_Excel_Sheet_Column_Title</module>
         <module>N169_Majority_Element</module>
         <module>N190_Reverse_Bits</module>
+        <module>N171_Excel_Sheet_Colum_Number</module>
     </modules>
     <dependencies>
         <dependency>
