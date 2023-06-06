@@ -57,6 +57,8 @@
         <module>N202_Happy_Number</module>
         <module>N191_Number_Of_One_Bits</module>
         <module>N203_Remove_Linken_List_Elements</module>
+        <module>N206_Reverse_Linked_List</module>
+        <module>N205_Isomorphic_String</module>
     </modules>
     <dependencies>
         <dependency>
