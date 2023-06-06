@@ -1,5 +1,6 @@
 package ru.voronin;
 
+
 public class Solution {
     public boolean isIsomorphic(String s, String t) {
         int[] map1 = new int[200];

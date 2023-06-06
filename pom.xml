@@ -53,12 +53,12 @@
         <module>N169_Majority_Element</module>
         <module>N171_Excel_Sheet_Colum_Number</module>
         <module>N190_Reverse_Bits</module>
-
         <module>N202_Happy_Number</module>
         <module>N191_Number_Of_One_Bits</module>
         <module>N203_Remove_Linken_List_Elements</module>
         <module>N206_Reverse_Linked_List</module>
         <module>N205_Isomorphic_String</module>
+        <module>N217_Contains_Duplicate</module>
     </modules>
     <dependencies>
         <dependency>
