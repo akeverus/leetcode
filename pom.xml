@@ -53,6 +53,7 @@
         <module>N169_Majority_Element</module>
         <module>N190_Reverse_Bits</module>
         <module>N171_Excel_Sheet_Colum_Number</module>
+        <module>N191_Number_Of_1_Bits</module>
     </modules>
     <dependencies>
         <dependency>
