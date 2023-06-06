@@ -51,9 +51,11 @@
         <module>N160_Intersection_Of_Two_Linked_List</module>
         <module>N168_Excel_Sheet_Column_Title</module>
         <module>N169_Majority_Element</module>
-        <module>N190_Reverse_Bits</module>
         <module>N171_Excel_Sheet_Colum_Number</module>
-        <module>N191_Number_Of_1_Bits</module>
+        <module>N190_Reverse_Bits</module>
+
+        <module>N202_Happy_Number</module>
+        <module>N191_Number_Of_One_Bits</module>
     </modules>
     <dependencies>
         <dependency>
